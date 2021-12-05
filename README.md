@@ -31,5 +31,6 @@
  <a href="" target="_blank"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" target="_blank"></a> 
   
 ![Snake animation](https://github.com/Fernandoaugt/Fernandoaugt/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
 
