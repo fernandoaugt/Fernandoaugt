@@ -7,7 +7,7 @@
 </div>
 
 ##
-###  📫 Como entrar em contato comigo:
+###  📫  Como entrar em contato comigo:
 <div> 
   <a href="https://api.whatsapp.com/send?phone=5531999540540&text=Ol%C3%A1%2C%20vim%20do%20GitHub" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
  <a href="https://discord.gg/cJyzgVRA" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
@@ -15,14 +15,14 @@
   <a href="https://www.linkedin.com/in/fernando-augusto-4152061b9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
   
-### 🛠️ Desenvolvo apps para:
+### 🛠️  Desenvolvo apps para:
 <div> 
   <a href="https://github.com/Fernandoaugt" target="_blank"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" target="_blank"></a> 
  <a href="https://github.com/Fernandoaugt" target="_blank"><img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" target="_blank"></a> 
  
 </div>
   
-### 🗄️ Minhas Linguagens:
+### 🗄️  Minhas Linguagens:
 <div> 
   <a href="https://github.com/Fernandoaugt" target="_blank"><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" target="_blank"></a> 
  <a href="https://github.com/Fernandoaugt" target="_blank"><img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" target="_blank"></a> 
